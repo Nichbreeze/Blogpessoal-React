@@ -1,0 +1,16 @@
+.textos1{
+    font-weight: bold !important;
+}
+
+.imagem{
+    background-image: url(https://img.freepik.com/psd-gratuitas/fundo-de-jogador-com-acessorios_1419-2365.jpg?w=826&t=st=1678496902~exp=1678497502~hmac=1a2cd27d442904de9ee1d710a532137eea60c3d91372471e5bf73ab2ea58d3f2);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
