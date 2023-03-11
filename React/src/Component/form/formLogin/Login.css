@@ -1,0 +1,37 @@
+.gridContainer{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(92, 92, 92);
+}
+
+.formLog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+    height: 70vh;
+    position: relative;
+    border-radius: 5px;
+    background-color: rgb(220, 218, 218);
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+
+.formLog span{
+    position: absolute;
+    top: 5%;
+    color: red;
+    font-size: 1.8em;
+    font-weight: bold;
+    padding: 15px;
+    border-bottom: 1px solid black ;
+
+}
+
+.containerInputs{   
+    width: 70%;
+    margin: 15px 0px;
+}
