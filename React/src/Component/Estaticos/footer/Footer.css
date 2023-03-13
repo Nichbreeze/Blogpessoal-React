@@ -1,9 +1,19 @@
-.footer--container{
-    
-    background-color: antiquewhite;
-    height: 120px;
-    align-items: center;
+.box1{
+    background: #323232; background: -moz-linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%); background: -webkit-linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%); background: linear-gradient(-146deg,  #323232 0%,#4b4b4b 48%,#1c1c1c 100%);
+    height: "120px";
+    color:white !important;
 }
-.footer--item{
-    text-align: center;
+.box2{
+background-color: black;
+color: white !important;
+
+}
+
+.redes{
+
+    font-size: 60px !important;
+    color: white !important;
+}
+.textos{
+    color: white !important;
 }
